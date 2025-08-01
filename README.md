@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 #### Connect With me
 
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![image](    https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![image](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)   ![image](    https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)   ![image](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 
 
 ![Febri's Github Stats](https://github-readme-stats.vercel.app/api?username=Kyouya-ind)
