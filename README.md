@@ -1,13 +1,20 @@
-## Hi there 👋
 
-![Kyouya-ind](img/github-header-image.png)
+
+
+
+
+<br clear="both">
+
+<h1 align="center">Hello World👋!</h1>
+
 ###
-
+![Kyouya-ind](img/github-header-image.png)
 <div align="center">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
+
 <br clear="both">
 
 <h4 align="center">About me :</h4>
@@ -55,8 +62,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyouya-ind&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyouya-ind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyouya-ind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=true&order=2&custom_title=My%20Languages" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=kyouya-ind&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=4&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h5 align="center">My Trophy</h5>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=kyouya-ind&theme=dracula&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -68,20 +85,3 @@
 </picture>
 
 ###
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-
-
-
-
-
-
-#### Connect With me
-
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)   ![image](    https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)   ![image](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-
-
-![Febri's Github Stats](https://github-readme-stats.vercel.app/api?username=Kyouya-ind)
