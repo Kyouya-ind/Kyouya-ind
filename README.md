@@ -9,11 +9,10 @@
 
 ###
 
- ![Kyouya-ind](img/github-header-image.png)
 
 
 <div align="center">
- <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/44da5e1d-5ab3-47a9-953a-eadead08fde7" />
+<img src="https://i.pinimg.com/originals/71/67/93/716793cdd2265ec5640500f420bbe825.gif" width="500" height="300">
 </div>
 
 
