@@ -8,13 +8,15 @@
 <h1 align="center">Hello World👋!</h1>
 
 ###
-![Kyouya-ind](img/github-header-image.png)
+
+ ![Kyouya-ind](img/github-header-image.png)
+
+
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+ <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/44da5e1d-5ab3-47a9-953a-eadead08fde7" />
 </div>
-![sad](<img width="352" height="200" alt="image" src="https://github.com/user-attachments/assets/44da5e1d-5ab3-47a9-953a-eadead08fde7" />
-)
-###
+
+
 
 <br clear="both">
 
